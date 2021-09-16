@@ -15,7 +15,7 @@
 | Лагранжиан и обратная задача, ядра    |  16.09.21 23:59  | 30.10.21 23:59  | https://forms.gle/Hdr72icMcDXHFLYr9 |
 
 
-[Ваши оценки (ведомость)](здесь будет ссылка)
+[Ваши оценки (ведомость)](https://docs.google.com/spreadsheets/d/1ouXQTRwwbQfOU0MZ_HtUeIs42QcZivnG60GC6CXSLtw/edit?usp=sharing)
 
 **Преподаватели:**
 - Илья Буренко iburenko@gmail.com, @ab_absurboom
