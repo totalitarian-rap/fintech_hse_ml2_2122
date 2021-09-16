@@ -18,7 +18,7 @@
 [Ваши оценки (ведомость)](https://docs.google.com/spreadsheets/d/1EcETCgAVFi4konmjudonCb-e9uVrKvqNygzjW8CGMdE/edit#gid=0)
 
 **Преподаватели:**
-- Илья Буренко ponomarevamawa@gmail.com, @ab_absurboom
+- Илья Буренко iburenko@gmail.com, @ab_absurboom
 
 **Рекомендуемая основная литература** 
 - S. Boyd, L. Vandenberghe. Convex optimization;
