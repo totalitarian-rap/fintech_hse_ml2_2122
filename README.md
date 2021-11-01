@@ -5,7 +5,7 @@
 
 **The формула для подсчёта итоговой оценки**
 
-*0.35 * Домашние задания (ДЗ) + 0.4 * Письменный экзамен (Э) + 0.15 * Проверочные работы на семинарах (ПЗ)*
+*0.35 * Домашние задания (ДЗ) + 0.4 * Письменный экзамен (Э) + 0.25 * Проверочные работы на семинарах (ПЗ)*
 
 ###  Syllabus
 ```diff
@@ -30,13 +30,13 @@
 - - Можно сдавать без штрафа до 3.10.21 23:59 (МСК);
 - - Жесткий дедлайн 17.10.21 23:59 (МСК), каждая неделя -- минус балл;
 - - [Условия](https://github.com/totalitarian-rap/fintech_hse_ml2_2122/blob/main/homeworks/hw1.pdf)
+- - [Результаты](https://docs.google.com/spreadsheets/d/1bQ45HaePd9Y6Fdc_T9DW-1gOONO_J3RQAbm5Wk2MBXQ/edit?usp=sharing)
 
 - Домашняя работа 2
 - - Выдана 1.10;
 - - Можно сдать без штрафа до 17.10.21 23:59 (МСК);
 - - Жёсткий дедлан 31.10.21 23:59 (МСК), неделя -- минус балл;
 - - [Условия](https://github.com/totalitarian-rap/fintech_hse_ml2_2122/blob/main/homeworks/hw2.ipynb)
-- - [Форма сдачи](https://forms.gle/ZzCaqRj6bmfpSpyL7)
 
 **Учебная ведомость**
 Ваши текущие баллы можно найти [в этой таблице](https://docs.google.com/spreadsheets/d/1ouXQTRwwbQfOU0MZ_HtUeIs42QcZivnG60GC6CXSLtw/edit?usp=sharing)
